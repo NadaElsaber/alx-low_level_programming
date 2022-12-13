@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print "_putchar" followed by a new line
+ * main - prints _putchar followed by a new line
  * Description: you are not allowed to include standard libraries
  * Return: 0
  */
@@ -17,5 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
